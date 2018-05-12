@@ -1,4 +1,8 @@
 _repo: The-Plays-of-Philip-Massinger-Vol-I_48440
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48440-h/images/cover.jpg
 creator:
   author:
     agent_name: Massinger, Philip
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '40158'
     url: http://www.gutenberg.org/2009/agents/40158
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48440#The-Plays-of-Philip-Massinger-Vol-I
 gutenberg_issued: '2015-03-08'
 gutenberg_type: Text
 identifiers:
